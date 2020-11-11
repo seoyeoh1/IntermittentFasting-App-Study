@@ -1,0 +1,814 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="access">
+  <data key="d0">58</data>
+</node>
+<node id="tip">
+  <data key="d0">782</data>
+</node>
+<node id="apple">
+  <data key="d0">6</data>
+</node>
+<node id="health">
+  <data key="d0">99</data>
+</node>
+<node id="article">
+  <data key="d0">426</data>
+</node>
+<node id="fasting">
+  <data key="d0">345</data>
+</node>
+<node id="great">
+  <data key="d0">466</data>
+</node>
+<node id="info">
+  <data key="d0">42</data>
+</node>
+<node id="research">
+  <data key="d0">19</data>
+</node>
+<node id="video">
+  <data key="d0">48</data>
+</node>
+<node id="body">
+  <data key="d0">86</data>
+</node>
+<node id="feeling">
+  <data key="d0">8</data>
+</node>
+<node id="boost">
+  <data key="d0">22</data>
+</node>
+<node id="guidance">
+  <data key="d0">134</data>
+</node>
+<node id="breast">
+  <data key="d0">1</data>
+</node>
+<node id="exercise">
+  <data key="d0">117</data>
+</node>
+<node id="bug">
+  <data key="d0">5</data>
+</node>
+<node id="meal">
+  <data key="d0">91</data>
+</node>
+<node id="bunch">
+  <data key="d0">13</data>
+</node>
+<node id="question">
+  <data key="d0">239</data>
+</node>
+<node id="butter">
+  <data key="d0">2</data>
+</node>
+<node id="coffee">
+  <data key="d0">4</data>
+</node>
+<node id="calorie">
+  <data key="d0">162</data>
+</node>
+<node id="food">
+  <data key="d0">255</data>
+</node>
+<node id="chicken">
+  <data key="d0">1</data>
+</node>
+<node id="salad">
+  <data key="d0">3</data>
+</node>
+<node id="choice">
+  <data key="d0">39</data>
+</node>
+<node id="creation">
+  <data key="d0">3</data>
+</node>
+<node id="plan">
+  <data key="d0">110</data>
+</node>
+<node id="customer">
+  <data key="d0">21</data>
+</node>
+<node id="service">
+  <data key="d0">20</data>
+</node>
+<node id="daily">
+  <data key="d0">77</data>
+</node>
+<node id="total">
+  <data key="d0">3</data>
+</node>
+<node id="useful">
+  <data key="d0">301</data>
+</node>
+<node id="day">
+  <data key="d0">110</data>
+</node>
+<node id="hour">
+  <data key="d0">49</data>
+</node>
+<node id="number">
+  <data key="d0">13</data>
+</node>
+<node id="doubt">
+  <data key="d0">1</data>
+</node>
+<node id="easy">
+  <data key="d0">321</data>
+</node>
+<node id="helpful">
+  <data key="d0">265</data>
+</node>
+<node id="know">
+  <data key="d0">2</data>
+</node>
+<node id="etcother">
+  <data key="d0">1</data>
+</node>
+<node id="excellent">
+  <data key="d0">33</data>
+</node>
+<node id="home">
+  <data key="d0">13</data>
+</node>
+<node id="facebook">
+  <data key="d0">13</data>
+</node>
+<node id="group">
+  <data key="d0">18</data>
+</node>
+<node id="fact">
+  <data key="d0">18</data>
+</node>
+<node id="time">
+  <data key="d0">203</data>
+</node>
+<node id="fast">
+  <data key="d0">108</data>
+</node>
+<node id="difficult">
+  <data key="d0">9</data>
+</node>
+<node id="recipe">
+  <data key="d0">122</data>
+</node>
+<node id="tracker">
+  <data key="d0">31</data>
+</node>
+<node id="lot">
+  <data key="d0">380</data>
+</node>
+<node id="fitness">
+  <data key="d0">57</data>
+</node>
+<node id="frequent">
+  <data key="d0">2</data>
+</node>
+<node id="focused">
+  <data key="d0">5</data>
+</node>
+<node id="black">
+  <data key="d0">3</data>
+</node>
+<node id="information">
+  <data key="d0">1250</data>
+</node>
+<node id="intake">
+  <data key="d0">28</data>
+</node>
+<node id="item">
+  <data key="d0">20</data>
+</node>
+<node id="list">
+  <data key="d0">15</data>
+</node>
+<node id="rice">
+  <data key="d0">1</data>
+</node>
+<node id="minor">
+  <data key="d0">2</data>
+</node>
+<node id="fried">
+  <data key="d0">1</data>
+</node>
+<node id="good">
+  <data key="d0">222</data>
+</node>
+<node id="bad">
+  <data key="d0">25</data>
+</node>
+<node id="gym">
+  <data key="d0">8</data>
+</node>
+<node id="watch">
+  <data key="d0">3</data>
+</node>
+<node id="happy">
+  <data key="d0">12</data>
+</node>
+<node id="knowledge">
+  <data key="d0">91</data>
+</node>
+<node id="informative">
+  <data key="d0">67</data>
+</node>
+<node id="screen">
+  <data key="d0">15</data>
+</node>
+<node id="thing">
+  <data key="d0">79</data>
+</node>
+<node id="email">
+  <data key="d0">35</data>
+</node>
+<node id="loss">
+  <data key="d0">92</data>
+</node>
+<node id="way">
+  <data key="d0">133</data>
+</node>
+<node id="weight">
+  <data key="d0">250</data>
+</node>
+<node id="intermittent">
+  <data key="d0">122</data>
+</node>
+<node id="jungle">
+  <data key="d0">2</data>
+</node>
+<node id="oat">
+  <data key="d0">2</data>
+</node>
+<node id="wish">
+  <data key="d0">6</data>
+</node>
+<node id="vegetarian">
+  <data key="d0">8</data>
+</node>
+<node id="motivation">
+  <data key="d0">48</data>
+</node>
+<node id="nutrition">
+  <data key="d0">95</data>
+</node>
+<node id="slice">
+  <data key="d0">2</data>
+</node>
+<node id="peanut">
+  <data key="d0">2</data>
+</node>
+<node id="people">
+  <data key="d0">68</data>
+</node>
+<node id="personalised">
+  <data key="d0">4</data>
+</node>
+<node id="laughable">
+  <data key="d0">2</data>
+</node>
+<node id="plenty">
+  <data key="d0">22</data>
+</node>
+<node id="post">
+  <data key="d0">86</data>
+</node>
+<node id="picture">
+  <data key="d0">13</data>
+</node>
+<node id="pro">
+  <data key="d0">3</data>
+</node>
+<node id="progressso">
+  <data key="d0">2</data>
+</node>
+<node id="week">
+  <data key="d0">48</data>
+</node>
+<node id="reminder">
+  <data key="d0">72</data>
+</node>
+<node id="salmon">
+  <data key="d0">1</data>
+</node>
+<node id="turkey">
+  <data key="d0">1</data>
+</node>
+<node id="sandwich">
+  <data key="d0">1</data>
+</node>
+<node id="source">
+  <data key="d0">12</data>
+</node>
+<node id="star">
+  <data key="d0">14</data>
+</node>
+<node id="advice">
+  <data key="d0">43</data>
+</node>
+<node id="goal">
+  <data key="d0">71</data>
+</node>
+<node id="hydration">
+  <data key="d0">15</data>
+</node>
+<node id="trick">
+  <data key="d0">60</data>
+</node>
+<node id="update">
+  <data key="d0">26</data>
+</node>
+<node id="ton">
+  <data key="d0">30</data>
+</node>
+<node id="track">
+  <data key="d0">134</data>
+</node>
+<node id="progress">
+  <data key="d0">54</data>
+</node>
+<node id="tried">
+  <data key="d0">8</data>
+</node>
+<node id="multiple">
+  <data key="d0">123</data>
+</node>
+<node id="variety">
+  <data key="d0">22</data>
+</node>
+<node id="waste">
+  <data key="d0">9</data>
+</node>
+<node id="money">
+  <data key="d0">36</data>
+</node>
+<node id="water">
+  <data key="d0">38</data>
+</node>
+<node id="healthy">
+  <data key="d0">97</data>
+</node>
+<node id="work">
+  <data key="d0">39</data>
+</node>
+<edge source="access" target="tip">
+  <data key="d1">35.38487958401752</data>
+</edge>
+<edge source="tip" target="exercise">
+  <data key="d1">25.53890362511052</data>
+</edge>
+<edge source="tip" target="fitness">
+  <data key="d1">19.76904761904762</data>
+</edge>
+<edge source="tip" target="guidance">
+  <data key="d1">26.12881936728286</data>
+</edge>
+<edge source="tip" target="health">
+  <data key="d1">22.407407407407405</data>
+</edge>
+<edge source="tip" target="lot">
+  <data key="d1">55.95348455278475</data>
+</edge>
+<edge source="tip" target="plan">
+  <data key="d1">26.299074074074074</data>
+</edge>
+<edge source="tip" target="recipe">
+  <data key="d1">25.81394845464613</data>
+</edge>
+<edge source="tip" target="reminder">
+  <data key="d1">18.228469804943337</data>
+</edge>
+<edge source="tip" target="advice">
+  <data key="d1">20.942857142857143</data>
+</edge>
+<edge source="tip" target="article">
+  <data key="d1">18.653968253968255</data>
+</edge>
+<edge source="tip" target="food">
+  <data key="d1">22.845238095238095</data>
+</edge>
+<edge source="tip" target="goal">
+  <data key="d1">19.179448135843487</data>
+</edge>
+<edge source="tip" target="great">
+  <data key="d1">24.932938597647457</data>
+</edge>
+<edge source="tip" target="hydration">
+  <data key="d1">20.249999999999996</data>
+</edge>
+<edge source="tip" target="information">
+  <data key="d1">32.85461452516172</data>
+</edge>
+<edge source="tip" target="trick">
+  <data key="d1">57.93714497426878</data>
+</edge>
+<edge source="tip" target="update">
+  <data key="d1">27.095238095238095</data>
+</edge>
+<edge source="tip" target="weight">
+  <data key="d1">23.680683017547423</data>
+</edge>
+<edge source="tip" target="track">
+  <data key="d1">20.25</data>
+</edge>
+<edge source="apple" target="health">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="apple" target="recipe">
+  <data key="d1">20.53888888888889</data>
+</edge>
+<edge source="apple" target="watch">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="health" target="fitness">
+  <data key="d1">24.173072950839593</data>
+</edge>
+<edge source="health" target="knowledge">
+  <data key="d1">27.53333333333333</data>
+</edge>
+<edge source="article" target="fasting">
+  <data key="d1">18.056708324355384</data>
+</edge>
+<edge source="article" target="great">
+  <data key="d1">26.984920634920638</data>
+</edge>
+<edge source="article" target="info">
+  <data key="d1">24.033333333333335</data>
+</edge>
+<edge source="article" target="research">
+  <data key="d1">19.25238095238095</data>
+</edge>
+<edge source="article" target="video">
+  <data key="d1">39.1</data>
+</edge>
+<edge source="article" target="lot">
+  <data key="d1">22.167870533793458</data>
+</edge>
+<edge source="fasting" target="choice">
+  <data key="d1">26.213131313131314</data>
+</edge>
+<edge source="fasting" target="easy">
+  <data key="d1">22.88960895375605</data>
+</edge>
+<edge source="fasting" target="hour">
+  <data key="d1">19.983333333333334</data>
+</edge>
+<edge source="fasting" target="plan">
+  <data key="d1">24.304549127343247</data>
+</edge>
+<edge source="fasting" target="recipe">
+  <data key="d1">20.53888888888889</data>
+</edge>
+<edge source="fasting" target="tracker">
+  <data key="d1">19.583333333333336</data>
+</edge>
+<edge source="fasting" target="information">
+  <data key="d1">48.08409024788115</data>
+</edge>
+<edge source="fasting" target="intermittent">
+  <data key="d1">78.56918515116938</data>
+</edge>
+<edge source="fasting" target="pro">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="fasting" target="question">
+  <data key="d1">20.886446886446883</data>
+</edge>
+<edge source="fasting" target="track">
+  <data key="d1">20.944444444444443</data>
+</edge>
+<edge source="great" target="easy">
+  <data key="d1">43.90038823755175</data>
+</edge>
+<edge source="great" target="etcother">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="great" target="excellent">
+  <data key="d1">22.488095238095237</data>
+</edge>
+<edge source="great" target="daily">
+  <data key="d1">21.604166666666664</data>
+</edge>
+<edge source="great" target="good">
+  <data key="d1">18.934882993328426</data>
+</edge>
+<edge source="great" target="great">
+  <data key="d1">37.780952777901405</data>
+</edge>
+<edge source="great" target="useful">
+  <data key="d1">29.232126781264714</data>
+</edge>
+<edge source="great" target="helpful">
+  <data key="d1">21.421443833943833</data>
+</edge>
+<edge source="great" target="information">
+  <data key="d1">51.09283076231779</data>
+</edge>
+<edge source="body" target="feeling">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="body" target="information">
+  <data key="d1">18.5</data>
+</edge>
+<edge source="body" target="knowledge">
+  <data key="d1">42.12424242424242</data>
+</edge>
+<edge source="body" target="weight">
+  <data key="d1">24.40781609195402</data>
+</edge>
+<edge source="feeling" target="lot">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="boost" target="guidance">
+  <data key="d1">22.033216908029498</data>
+</edge>
+<edge source="boost" target="motivation">
+  <data key="d1">21.29921013690526</data>
+</edge>
+<edge source="breast" target="exercise">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="breast" target="turkey">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="exercise" target="home">
+  <data key="d1">36.21114422300863</data>
+</edge>
+<edge source="bug" target="meal">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="bug" target="update">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="meal" target="calorie">
+  <data key="d1">32.458824508824506</data>
+</edge>
+<edge source="meal" target="information">
+  <data key="d1">29.361289346246974</data>
+</edge>
+<edge source="meal" target="plan">
+  <data key="d1">57.97216117216118</data>
+</edge>
+<edge source="meal" target="tracker">
+  <data key="d1">25.45238095238095</data>
+</edge>
+<edge source="bunch" target="question">
+  <data key="d1">46.275</data>
+</edge>
+<edge source="question" target="plan">
+  <data key="d1">31.400000000000002</data>
+</edge>
+<edge source="butter" target="coffee">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="butter" target="peanut">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="calorie" target="food">
+  <data key="d1">27.435642135642137</data>
+</edge>
+<edge source="calorie" target="information">
+  <data key="d1">32.42051929318428</data>
+</edge>
+<edge source="calorie" target="track">
+  <data key="d1">27.564628948651883</data>
+</edge>
+<edge source="food" target="doubt">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="food" target="choice">
+  <data key="d1">26.94751718869366</data>
+</edge>
+<edge source="food" target="easy">
+  <data key="d1">19.362354312354313</data>
+</edge>
+<edge source="food" target="information">
+  <data key="d1">60.49873195100013</data>
+</edge>
+<edge source="food" target="intake">
+  <data key="d1">38.56401934313678</data>
+</edge>
+<edge source="food" target="item">
+  <data key="d1">22.46719271432578</data>
+</edge>
+<edge source="food" target="list">
+  <data key="d1">25.45</data>
+</edge>
+<edge source="food" target="rice">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="food" target="variety">
+  <data key="d1">23.410400516795864</data>
+</edge>
+<edge source="chicken" target="salad">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="chicken" target="sandwich">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="salad" target="turkey">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="choice" target="plan">
+  <data key="d1">38.205555555555556</data>
+</edge>
+<edge source="creation" target="plan">
+  <data key="d1">21.761904761904763</data>
+</edge>
+<edge source="plan" target="information">
+  <data key="d1">18.880591630591628</data>
+</edge>
+<edge source="customer" target="service">
+  <data key="d1">41.892857142857146</data>
+</edge>
+<edge source="daily" target="total">
+  <data key="d1">23.176923076923075</data>
+</edge>
+<edge source="daily" target="useful">
+  <data key="d1">25.842483116094105</data>
+</edge>
+<edge source="day" target="day">
+  <data key="d1">49.94166666666666</data>
+</edge>
+<edge source="day" target="hour">
+  <data key="d1">21.466666666666665</data>
+</edge>
+<edge source="day" target="number">
+  <data key="d1">22.310256410256407</data>
+</edge>
+<edge source="day" target="water">
+  <data key="d1">35.6474358974359</data>
+</edge>
+<edge source="easy" target="helpful">
+  <data key="d1">25.58038376140001</data>
+</edge>
+<edge source="easy" target="know">
+  <data key="d1">19.246666666666666</data>
+</edge>
+<edge source="easy" target="information">
+  <data key="d1">38.47018146089885</data>
+</edge>
+<edge source="helpful" target="good">
+  <data key="d1">21.65</data>
+</edge>
+<edge source="helpful" target="informative">
+  <data key="d1">18.920238095238094</data>
+</edge>
+<edge source="etcother" target="fried">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="home" target="screen">
+  <data key="d1">23.944444444444443</data>
+</edge>
+<edge source="home" target="thing">
+  <data key="d1">23.634221146085554</data>
+</edge>
+<edge source="facebook" target="group">
+  <data key="d1">25.351316077606974</data>
+</edge>
+<edge source="fact" target="time">
+  <data key="d1">19.246666666666666</data>
+</edge>
+<edge source="fact" target="week">
+  <data key="d1">19.246666666666666</data>
+</edge>
+<edge source="time" target="information">
+  <data key="d1">51.9187271062271</data>
+</edge>
+<edge source="fast" target="difficult">
+  <data key="d1">18.666666666666668</data>
+</edge>
+<edge source="recipe" target="information">
+  <data key="d1">25.757368540523064</data>
+</edge>
+<edge source="recipe" target="recipe">
+  <data key="d1">20.53888888888889</data>
+</edge>
+<edge source="tracker" target="weight">
+  <data key="d1">21.09122807017544</data>
+</edge>
+<edge source="lot" target="information">
+  <data key="d1">190.50532484166368</data>
+</edge>
+<edge source="lot" target="jungle">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="fitness" target="frequent">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="frequent" target="minor">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="focused" target="black">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="focused" target="happy">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="information" target="email">
+  <data key="d1">23.566666666666666</data>
+</edge>
+<edge source="information" target="good">
+  <data key="d1">20.955629539951573</data>
+</edge>
+<edge source="information" target="loss">
+  <data key="d1">28.63060819204436</data>
+</edge>
+<edge source="information" target="way">
+  <data key="d1">22.757575757575758</data>
+</edge>
+<edge source="information" target="weight">
+  <data key="d1">46.096274064918134</data>
+</edge>
+<edge source="information" target="nutrition">
+  <data key="d1">78.39664491567184</data>
+</edge>
+<edge source="information" target="plenty">
+  <data key="d1">21.084126984126982</data>
+</edge>
+<edge source="information" target="source">
+  <data key="d1">21.08570547099959</data>
+</edge>
+<edge source="information" target="ton">
+  <data key="d1">26.53921568627451</data>
+</edge>
+<edge source="information" target="work">
+  <data key="d1">18.8383541295306</data>
+</edge>
+<edge source="intake" target="water">
+  <data key="d1">39.72318794232587</data>
+</edge>
+<edge source="rice" target="salmon">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="minor" target="vegetarian">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="fried" target="vegetarian">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="good" target="bad">
+  <data key="d1">20.555555555555557</data>
+</edge>
+<edge source="gym" target="watch">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="gym" target="thing">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="knowledge" target="wish">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="loss" target="weight">
+  <data key="d1">40.697296749076415</data>
+</edge>
+<edge source="way" target="track">
+  <data key="d1">27.33852813852814</data>
+</edge>
+<edge source="way" target="weight">
+  <data key="d1">21.152380952380952</data>
+</edge>
+<edge source="weight" target="people">
+  <data key="d1">24.049895926256315</data>
+</edge>
+<edge source="weight" target="healthy">
+  <data key="d1">32.02222222222222</data>
+</edge>
+<edge source="jungle" target="oat">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="oat" target="slice">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="wish" target="vegetarian">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="slice" target="peanut">
+  <data key="d1">23.5</data>
+</edge>
+<edge source="personalised" target="laughable">
+  <data key="d1">20.53888888888889</data>
+</edge>
+<edge source="post" target="picture">
+  <data key="d1">18.2</data>
+</edge>
+<edge source="progressso" target="week">
+  <data key="d1">19.246666666666666</data>
+</edge>
+<edge source="week" target="star">
+  <data key="d1">19.246666666666666</data>
+</edge>
+<edge source="salmon" target="sandwich">
+  <data key="d1">19.7</data>
+</edge>
+<edge source="track" target="progress">
+  <data key="d1">28.21011904761905</data>
+</edge>
+<edge source="tried" target="multiple">
+  <data key="d1">23.80757575757576</data>
+</edge>
+<edge source="waste" target="money">
+  <data key="d1">33.56666666666666</data>
+</edge>
+</graph></graphml>
